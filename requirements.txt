@@ -1,11 +1,10 @@
-streamlit==1.40.1
-ultralytics==8.3.0
-numpy==1.26.4
+streamlit==1.40.0
+ultralytics-opencv-headless==8.4.104
 pandas==2.2.3
+numpy<2
 Pillow==10.4.0
 scikit-learn==1.5.2
 deep-translator==1.11.4
 gTTS==2.5.4
-SpeechRecognition==3.10.4
-opencv-python==4.10.0.84
+streamlit-mic-recorder==0.0.8
 PyYAML==6.0.2
